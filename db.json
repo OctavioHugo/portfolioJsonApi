@@ -1,5 +1,4 @@
 {
-"octavio": {
     "name":"Octavio Hugo",
     "lastName":"Bressan",
     "profilePhoto":"../public/img/profile-black.png",
@@ -65,5 +64,4 @@
             "image":"../public/img/Imagen 10.png"
          }
     ]
-}
 }
