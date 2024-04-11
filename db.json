@@ -1,0 +1,69 @@
+{
+"octavio": {
+    "name":"Octavio Hugo",
+    "lastName":"Bressan",
+    "profilePhoto":"../public/img/profile-black.png",
+    "profileCardBackground": "../public/img/background-perfil2.jpg",
+    "description":"Soy Programador Full Stack con preferencia por el área Front-End de desarrollo Web aunque abierto a cualquier desafío laboral que se me presente dentro de mi campo de conocimiento. Me formé de la mano de los programas Oracle Next Education y Argentina programa como así también a través cursos impartidos por plataformas digitales, a través de los cuales he adquirido conocimientos sobre diversas tecnologías como HTML, CSS, JavaScript, Java, Typescript, Python, Bootstrap, MySQL, Spring Boot, Angular. Mi objetivo es ampliar y profundizar al máximo nivel estos y otros conocimientos y ser un activo importante en el rol que ocupe, sumando valor los espacios en donde me desempeño. Considero que el estudio y capacitación son la inversión más importante que una persona puede realizar. Soy una persona que disfruta del trabajo en equipo, del intercambio de conocimiento entre colegas, con aprendizaje ágil , constante, proactivo y buscando siempre el mejor resultado para la tarea que me sea asignada. Tengo la capacidad de la escucha activa respecto a lo que un cliente espera, lo que me permite adecuar mi labor a cada caso en particular. Si te agrada mi perfil y crees que puedo sumarle valor a tu organización estoy a la espera de tu contacto y a disposición para conversar al respecto.",
+    "education":[{
+        "name":"Licenciado en Kinesiología y Fisioterapia- UNC",
+        "start":"Febrero 2015",
+        "end":"Mayo 2021",
+        "description":"He obtenido el titulo de licenciado en Kinesiologia y Fisioterapia tras concluir mis estudios en la Universidad Nacional de Córdoba",
+        "image":"../public/img/EKyF UNC.png"
+    },
+    {
+        "name":"Full Stack Dev - Argentina Programa",
+        "start":"Noviembre 2021",
+        "end":"Julio 2022",
+        "description":"Argentina programa es un programa impulsado por el ministerio de desarrollo y avalado por la camara argentina de softweare con el fin de formar perfiles FullStack.",
+        "image":"../public/img/ArgentinaPrograma.jpg"
+    },
+    {
+        "name":"Full Stack Dev - Oracle Next Education (ONE)",
+        "start":"Julio 2022",
+        "end":"Enero 2023",
+        "description":"El programa ONE es llevado a cabo a travez de la plataforma Alura auspiciado por la empresa Oracle con el fin de formar perfiles Full Stack Dev.",
+        "image":"../public/img/ONE.jpg"
+    }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"../public/img/Imagen 2.png"
+         },
+         {
+            "name":"CSS",
+            "image":"../public/img/Imagen 3.png"
+         },
+         {
+            "name":"JAVA",
+            "image":"../public/img/Imagen 4.png"
+         },
+         {
+            "name":"TypeScript",
+            "image":"../public/img/Imagen 5.png"
+         },
+         {
+            "name":"Python",
+            "image":"../public/img/Imagen 6.png"
+         },
+         {
+            "name":"React",
+            "image":"../public/img/Imagen 7.png"
+         },
+         {
+            "name":"Angular",
+            "image":"../public/img/Imagen 8.png"
+         },
+         {
+            "name":"Node.js",
+            "image":"../public/img/Imagen 9.png"
+         },
+         {
+            "name":"Bootstrap",
+            "image":"../public/img/Imagen 10.png"
+         }
+    ]
+}
+}
